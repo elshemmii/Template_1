@@ -1,2 +1,3 @@
 # Leon | Template
-HTML+CSS
+WebPage using [ HTML, CSS]
+Pixel-perfect design.
